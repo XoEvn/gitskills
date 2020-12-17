@@ -1,5 +1,3 @@
 I first read this txt,it is very happy!
-Gis is free software!
-dddd
-dfjkdjfjkdjfk
+Git is free software!
 测试cherry-pick指令
